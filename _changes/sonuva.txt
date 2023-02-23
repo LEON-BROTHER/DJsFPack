@@ -1,0 +1,6 @@
+mods/data/sonuva/events.json
+mods/data/sonuva/sonuva.json
+mods/songs/sonuva/Voices.ogg
+mods/songs/sonuva/Inst.ogg
+mods/songs/sonuva/voices.ogg
+mods/songs/sonuva/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/dumbassery/dumbassery.json
+mods/data/dumbassery/events.json
+mods/songs/dumbassery/Voices.ogg
+mods/songs/dumbassery/Inst.ogg
+mods/songs/dumbassery/voices.ogg
+mods/songs/dumbassery/inst.ogg

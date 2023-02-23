@@ -1,0 +1,7 @@
+mods/data/sink/sink-easy.json
+mods/data/sink/sink-hard.json
+mods/data/sink/sink.json
+mods/songs/sink/Voices.ogg
+mods/songs/sink/Inst.ogg
+mods/songs/sink/voices.ogg
+mods/songs/sink/inst.ogg

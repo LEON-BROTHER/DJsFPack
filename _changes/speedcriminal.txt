@@ -1,0 +1,7 @@
+mods/data/speedcriminal/events.json
+mods/data/speedcriminal/speedcriminal-alt.json
+mods/data/speedcriminal/speedcriminal-hard.json
+mods/songs/speedcriminal/Voices.ogg
+mods/songs/speedcriminal/Inst.ogg
+mods/songs/speedcriminal/voices.ogg
+mods/songs/speedcriminal/inst.ogg

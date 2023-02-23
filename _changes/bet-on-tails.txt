@@ -1,0 +1,6 @@
+mods/data/bet-on-tails/bet-on-tails.json
+mods/data/bet-on-tails/events.json
+mods/songs/bet-on-tails/Voices.ogg
+mods/songs/bet-on-tails/Inst.ogg
+mods/songs/bet-on-tails/voices.ogg
+mods/songs/bet-on-tails/inst.ogg

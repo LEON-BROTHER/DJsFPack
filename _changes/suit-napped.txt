@@ -1,0 +1,6 @@
+mods/data/suit-napped/events.json
+mods/data/suit-napped/suit-napped.json
+mods/songs/suit-napped/Voices.ogg
+mods/songs/suit-napped/Inst.ogg
+mods/songs/suit-napped/voices.ogg
+mods/songs/suit-napped/inst.ogg

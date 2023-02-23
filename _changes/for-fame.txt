@@ -1,0 +1,6 @@
+mods/data/for-fame/events.json
+mods/data/for-fame/for-fame.json
+mods/songs/for-fame/Voices.ogg
+mods/songs/for-fame/Inst.ogg
+mods/songs/for-fame/voices.ogg
+mods/songs/for-fame/inst.ogg

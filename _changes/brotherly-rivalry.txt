@@ -1,0 +1,6 @@
+mods/data/brotherly-rivalry/brotherly-rivalry-hard.json
+mods/data/brotherly-rivalry/events.json
+mods/songs/brotherly-rivalry/Voices.ogg
+mods/songs/brotherly-rivalry/Inst.ogg
+mods/songs/brotherly-rivalry/voices.ogg
+mods/songs/brotherly-rivalry/inst.ogg

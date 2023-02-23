@@ -1,0 +1,7 @@
+mods/data/familiar-face/events.json
+mods/data/familiar-face/familiar-face-geecko.json
+mods/data/familiar-face/familiar-face-ontariiku.json
+mods/songs/familiar-face/Voices.ogg
+mods/songs/familiar-face/Inst.ogg
+mods/songs/familiar-face/voices.ogg
+mods/songs/familiar-face/inst.ogg

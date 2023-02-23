@@ -1,0 +1,7 @@
+mods/data/friendly-foolery/events.json
+mods/data/friendly-foolery/friendly-foolery-alt.json
+mods/data/friendly-foolery/friendly-foolery-wah.json
+mods/songs/friendly-foolery/Voices.ogg
+mods/songs/friendly-foolery/Inst.ogg
+mods/songs/friendly-foolery/voices.ogg
+mods/songs/friendly-foolery/inst.ogg

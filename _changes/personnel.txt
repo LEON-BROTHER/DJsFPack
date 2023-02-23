@@ -1,0 +1,5 @@
+mods/data/personnel/personnel.json
+mods/songs/personnel/Voices.ogg
+mods/songs/personnel/Inst.ogg
+mods/songs/personnel/voices.ogg
+mods/songs/personnel/inst.ogg

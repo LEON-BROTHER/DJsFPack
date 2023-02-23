@@ -1,0 +1,6 @@
+mods/data/kerosentinis/events.json
+mods/data/kerosentinis/kerosentinis.json
+mods/songs/kerosentinis/Voices.ogg
+mods/songs/kerosentinis/Inst.ogg
+mods/songs/kerosentinis/voices.ogg
+mods/songs/kerosentinis/inst.ogg
